@@ -1,0 +1,5 @@
+aws.bat
+aws.sh
+*.tfstate
+*.pem
+.terraform
