@@ -1,3 +1,4 @@
 aws.bat
 aws.sh
 .vs
+.terraform
